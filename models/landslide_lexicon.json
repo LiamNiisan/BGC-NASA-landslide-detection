@@ -1,0 +1,32 @@
+{
+    "positive": [
+        "landslide",
+        "landslides",
+        "mudslide",
+        "mudslides",
+        "slope failure",
+        "debris flow",
+        "mass wasting",
+        "rockfall",
+        "rockfalls",
+        "rockslide",
+        "rockslides",
+        "rock-slide",
+        "rock-slides",
+        "ground failure",
+        "slope erosion",
+        "landslip",
+        "landslips",
+        "mudflow",
+        "mudflows"
+    ],
+    "negative": [
+        "politics",
+        "election",
+        "political",
+        "defeat",
+        "victory",
+        "campain",
+        "music"
+    ]
+}

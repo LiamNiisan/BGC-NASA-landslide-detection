@@ -1,0 +1,16 @@
+{
+    "interval" : {
+        "default" : "no",
+        "start" : {
+            "date" : "2022-04-01"
+        },
+        "end" : {
+            "now" : "yes",
+            "date" : "2022-04-02"
+        }
+    },
+    "model" : {
+        "baseline" : "no",
+        "multitask" : "yes"
+    }
+}

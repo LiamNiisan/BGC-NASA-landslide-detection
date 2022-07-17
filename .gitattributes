@@ -1,0 +1,2 @@
+models/lid.176.bin filter=lfs diff=lfs merge=lfs -text
+models/landslide_detection-QA-2-epoch_2-40.model filter=lfs diff=lfs merge=lfs -text
